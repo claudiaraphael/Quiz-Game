@@ -1,1 +1,2 @@
-# Quiz Game made for CLI with python.
+# Quiz Game 
+- Made for CLI with python.
